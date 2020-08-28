@@ -33,5 +33,6 @@
     <orderEntry type="library" name="Maven: net.md-5:bungeecord-chat:1.15-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.25" level="project" />
     <orderEntry type="library" name="Maven: org.bukkit:bukkit:1.15.2-R0.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.mojang:brigadier:1.0.17" level="project" />
   </component>
 </module>

@@ -2,6 +2,11 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="minecraft-libraries" />
+      <option name="name" value="Minecraft Libraries" />
+      <option name="url" value="https://libraries.minecraft.net" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="sk89q-repo" />
       <option name="name" value="sk89q-repo" />
       <option name="url" value="http://maven.sk89q.com/repo/" />
