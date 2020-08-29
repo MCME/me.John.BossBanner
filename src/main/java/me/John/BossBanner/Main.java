@@ -2,6 +2,7 @@ package me.John.BossBanner;
 
 import java.util.List;
 
+import com.mojang.brigadier.CommandDispatcher;
 import org.bukkit.Bukkit;
 import org.bukkit.boss.BarColor;
 import org.bukkit.command.Command;
@@ -113,5 +114,5 @@ public class Main extends JavaPlugin implements Listener {
 		}
 		return false;
 	}
-	
+
 }
