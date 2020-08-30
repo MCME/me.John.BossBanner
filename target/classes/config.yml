@@ -1,0 +1,11 @@
+startTicks: 0
+repeatTicks: 20
+progressTime: 20
+barColor : BarColor.RED
+text:
+  - '&a&lhello world'
+texts:
+  - '&a&lText1'
+  - '&a&lText2'
+  - '&a&lText3'
+  - '&a&lText4'
