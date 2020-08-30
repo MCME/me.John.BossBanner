@@ -5,6 +5,7 @@ main : me.John.BossBanner.Main
 description: plugin that makes banner on top of screen
 
 commands:
-  bossbar reload texts:
-  bossbar enable:
-  bossbar disable:
+  bossbar:
+    enable:
+    disable:
+    TextsReload:

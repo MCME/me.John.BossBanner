@@ -1,6 +1,7 @@
 startTicks: 0
 repeatTicks: 20
 progressTime: 20
+barColor : BarColor.RED
 text:
   - '&a&lhello world'
 texts:

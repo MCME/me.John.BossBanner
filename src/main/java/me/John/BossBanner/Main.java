@@ -85,7 +85,7 @@ public class Main extends JavaPlugin implements Listener {
 			if (args[0].equalsIgnoreCase("TextsReload")) {
 				if (sender instanceof Player) {//player command
 					Player player = (Player) sender;
-					if (player.hasPermission("bossbar.admin")) {//has permission
+					if (player.hasPermission("admin")) {//has permission
 						textLines = this.getConfig().getStringList("texts");
 						player.sendMessage("config texts succesfully copied");
 						return true;
