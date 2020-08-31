@@ -4,6 +4,9 @@ author : John
 main : me.John.BossBanner.Main
 description: plugin that makes banner on top of screen
 
+permissions:
+  bossbar.admin:
+
 commands:
   bossbar:
     enable:
