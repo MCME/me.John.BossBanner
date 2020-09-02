@@ -47,11 +47,10 @@ public class Bar{
 			double time = 1.0/(plugin.getConfig().getInt("progressTime"));//amount of time it takes to change the progress on the bar should be (plugin.getConfig().getInt("progressTime"))
 			public List<String> textLines = plugin.getConfig().getStringList("texts");
 
-			
 			@Override
 			public void run() {
 				
-				bar.setProgress(progress);
+				bar.setProgress(1.0);
 				bar.setColor((BarColor) plugin.getConfig().get("barColor"));
 				bar.setTitle(format(textLines.get(indexNum)));
 				
